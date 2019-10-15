@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahthuerip.davidndungu.com/sitemap.xml
